@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47" started-at="2021-06-30T12:07:31Z" finished-at="2021-06-30T12:07:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47" started-at="2021-06-30T12:07:31Z" finished-at="2021-06-30T12:07:31Z">
+      <class name="New.RunnerTest">
+        <test-method status="PASS" signature="sumReturnsCorrectResult()[pri:0, instance:New.RunnerTest@6767c1fc]" name="sumReturnsCorrectResult" duration-ms="15" started-at="2021-06-30T12:07:31Z" finished-at="2021-06-30T12:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumReturnsCorrectResult -->
+      </class> <!-- New.RunnerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
